@@ -1,0 +1,8 @@
+# Example seed file for `cleanprobe scan`.
+# One entry per line: single IP, CIDR block, or hostname.
+# Lines starting with '#' and blank lines are ignored.
+
+# documentation ranges (RFC 5737) - replace with your real candidates
+198.51.100.0/30
+203.0.113.10
+cdn.example.net

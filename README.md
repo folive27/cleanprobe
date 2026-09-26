@@ -17,7 +17,7 @@ A small tool that answers two questions:
 ### 1. One-line installer (easiest)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/folive27/cleanprobe/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/frank0live/cleanprobe/main/install.sh | bash
 ```
 
 It installs into `~/.cleanprobe`, creates a `cleanprobe` command in
@@ -27,15 +27,15 @@ It installs into `~/.cleanprobe`, creates a `cleanprobe` command in
 ### 2. With pip / pipx
 
 ```bash
-pipx install git+https://github.com/folive27/cleanprobe
+pipx install git+https://github.com/frank0live/cleanprobe
 # or
-pip install git+https://github.com/folive27/cleanprobe
+pip install git+https://github.com/frank0live/cleanprobe
 ```
 
 ### 3. From source
 
 ```bash
-git clone https://github.com/folive27/cleanprobe
+git clone https://github.com/frank0live/cleanprobe
 cd cleanprobe
 python3 -m venv .venv
 . .venv/bin/activate          # Windows: .venv\Scripts\activate

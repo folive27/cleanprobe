@@ -9,7 +9,7 @@ description = "Minimal TLS endpoint prober and VLESS/REALITY link validator"
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
-authors = [{ name = "folive27" }]
+authors = [{ name = "frank0live" }]
 dependencies = ["cryptography>=41"]
 
 [project.scripts]

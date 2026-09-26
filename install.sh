@@ -2,7 +2,7 @@
 # cleanprobe easy installer
 #
 # One-line install:
-#   curl -fsSL https://raw.githubusercontent.com/folive27/cleanprobe/main/install.sh | bash
+#   curl -fsSL https://raw.githubusercontent.com/frank0live/cleanprobe/main/install.sh | bash
 #
 # Or from a checkout:
 #   ./install.sh
@@ -15,7 +15,7 @@
 # Needs: python3 (3.9+), and either git or curl+tar. No root required.
 set -euo pipefail
 
-REPO="folive27/cleanprobe"
+REPO="frank0live/cleanprobe"
 REPO_URL="https://github.com/${REPO}.git"
 TARBALL="https://codeload.github.com/${REPO}/tar.gz/refs/heads/main"
 

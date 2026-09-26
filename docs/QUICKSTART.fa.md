@@ -13,7 +13,7 @@
 ## نصب (ساده‌ترین راه — یک خط)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/folive27/cleanprobe/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/frank0live/cleanprobe/main/install.sh | bash
 ```
 
 این دستور:
@@ -29,7 +29,7 @@ curl -fsSL https://raw.githubusercontent.com/folive27/cleanprobe/main/install.sh
 ### نصب دستی (اگر اسکریپت را دوست نداری)
 
 ```bash
-git clone https://github.com/folive27/cleanprobe
+git clone https://github.com/frank0live/cleanprobe
 cd cleanprobe
 python3 -m venv .venv
 . .venv/bin/activate
